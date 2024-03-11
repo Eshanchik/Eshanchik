@@ -1,7 +1,6 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGNmNDN3dTdhbm9mZ3QyZWkzNHcxbXZkNzgzYXIyM2hhaGxkYnVwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nf9OkHHKlpZRK/giphy.gif" width="200"/>
-</div>
-
-
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>

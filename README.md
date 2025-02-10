@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm a DevOps Engineer!
+# 👋 Hi
 
 ![DevOps Banner](https://img.shields.io/badge/DevOps-Life-blue?style=for-the-badge)
 

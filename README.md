@@ -14,7 +14,6 @@
 
 **Infrastructure as Code:**
 - Terraform | Ansible
-- CloudFormation | Pulumi
 
 **Monitoring & Logging:**
 - Prometheus | Grafana
